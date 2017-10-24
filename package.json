@@ -1,0 +1,27 @@
+{
+  "name": "doctorsearch",
+  "version": "1.0.0",
+  "description": "a simple website that allows you to search doctors locally",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishachopde/DoctorSearchApp.git"
+  },
+  "author": "isha chopde",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+
+
+  },
+  "bugs": {
+    "url": "https://github.com/ishachopde/DoctorSearchApp/issues"
+  },
+  "homepage": "https://github.com/ishachopde/DoctorSearchApp#readme"
+}
